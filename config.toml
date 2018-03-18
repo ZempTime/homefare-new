@@ -1,0 +1,17 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Homefare"
+theme = "kube"
+description = "The antidote for modern society"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Chris Zempel"
+  github = "https://github.com/zemptime/"
+  twitter = "zemptime"
+  email = "chris.m.zempel@gmail.com"
+
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
