@@ -1,8 +1,7 @@
 ---
 title: "Master Plan v0.0.0"
 date: 2018-03-18T15:21:17-05:00
-description: 'wat'
-draft: true
+description: 'Still in draft - testing deploy'
 ---
 
 **note: this is still in draft/writing. Just getting it written incrementally when I can to get it out!**
